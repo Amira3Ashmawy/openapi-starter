@@ -17,7 +17,7 @@ tags:
   - name: Echo
     description: Example echo operations.
   - name: User
-    description: Operations about users.
+    description: Description for the Operations about users.
   - name: Tag
     description: This is a tag description.
 servers:
