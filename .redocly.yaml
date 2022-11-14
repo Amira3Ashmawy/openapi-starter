@@ -19,3 +19,4 @@ features.openapi:
       - lang: JavaScript
       - lang: PHP
       - lang: Python
+      - lang: Java
